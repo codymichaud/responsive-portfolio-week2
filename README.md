@@ -3,3 +3,6 @@ This is my About me website. On the first page you will find a brief about. At t
 
 Here is the link to my deployed website: https://codymichaud.github.io/responsive-portfolio-week2/index.html
 
+![](hw_img/pass.gen.hw2.PNG)
+![](hw_img/pass.gen.contact.week2.PNG)
+![](hw_img/pass.gen.portfolio.week2.PNG)
